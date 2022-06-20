@@ -5,6 +5,17 @@ NPM
 
 PRETTIER
 `> npm prettier 'file' --write` auto format file
+create file `.prettierrc`
+
+install REACT 
+`npm i react@17.0.2 react-dom@17.0.2`
+```
+create in package.js
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+```
 
 PARCEL
 `> npm i -D parcel`

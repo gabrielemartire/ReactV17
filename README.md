@@ -1,14 +1,17 @@
 # React :octocat:
-frontendmasters complete into React v7 
+
+frontendmasters complete into React v7
 
 NPM
 
+asd
 PRETTIER
 `> npm prettier 'file' --write` auto format file
 create file `.prettierrc`
 
-install REACT 
+install REACT
 `npm i react@17.0.2 react-dom@17.0.2`
+
 ```
 create in package.js
   "dependencies": {
@@ -21,6 +24,7 @@ PARCEL
 `> npm i -D parcel`
 
 in 'package.json':
+
 ```
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
